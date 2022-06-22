@@ -1,0 +1,10 @@
+﻿  Complex.cpp
+  main.cpp
+C:\Users\Sergey\source\repos\laba1.2\laba1.2\main.cpp(7): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note:  см. объявление "fopen"
+C:\Users\Sergey\source\repos\laba1.2\laba1.2\main.cpp(12): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+C:\Users\Sergey\source\repos\laba1.2\laba1.2\main.cpp(18): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+C:\Users\Sergey\source\repos\laba1.2\laba1.2\main.cpp(6): warning C4101: position: неиспользованная локальная переменная
+  Создание кода...
